@@ -28,22 +28,27 @@
 
 ###
 
+<div align="left">
+  <h3>🚀 Featured Projects</h3>
+
+  <p>
+    🔹 <a href="https://github.com/VYSAKHVINOD/HOSPITAL-FINDER"><b>HOSPITAL-FINDER</b></a><br>
+    A web page to find different hospitals and their details across Kerala.
+  </p>
+
+  <p>
+    🔹 <b>More projects coming soon...</b> 🚀
+  </p>
+</div>
+
+###
+
 <br clear="both">
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VYSAKHVINOD/VYSAKHVINOD/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VYSAKHVINOD/VYSAKHVINOD/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VYSAKHVINOD/VYSAKHVINOD/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-###
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VYSAKHVINOD/VYSAKHVINOD/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VYSAKHVINOD/VYSAKHVINOD/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  
-
-
-
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VYSAKHVINOD/VYSAKHVINOD/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ###
