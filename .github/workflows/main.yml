@@ -20,7 +20,8 @@ jobs:
       - name: Generate Pac-Man contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: VYSAKHVINOD
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           games: 'pacman'
 
       - name: Push SVGs to pacman-output branch
