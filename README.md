@@ -4,13 +4,13 @@
 
 <br clear="both">
 
-<h5 data-importer="text" align="left">I'm a passionate developer and technology enthusiast who enjoys building practical projects, learning new technologies, and solving real-world problems through code.<br><br>💻 Interested in software development & technology<br>🚀 Building projects and exploring new ideas<br>📚 Continuously learning and improving<br>🔧 Exploring Git, GitHub, and modern development tools<br><br>Always learning. Always building. 🚀</h5>
+<h4 data-importer="text" align="left">I'm a passionate developer and technology enthusiast who enjoys building practical projects, learning new technologies, and solving real-world problems through code.<br><br>💻 Interested in software development & technology<br>🚀 Building projects and exploring new ideas<br>📚 Continuously learning and improving<br>🔧 Exploring Git, GitHub, and modern development tools<br><br>Always learning. Always building. 🚀</h4>
 
 ###
 
 <br clear="both">
 
-<img data-importer="image" align="right" height="265" src="https://camo.githubusercontent.com/41935d0f324d6684b781fbd9c63e622d0535df53f8e248ef81bebbffc637188d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"  />
+<img data-importer="image" align="right" height="400" src="https://camo.githubusercontent.com/41935d0f324d6684b781fbd9c63e622d0535df53f8e248ef81bebbffc637188d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"  />
 
 ###
 
@@ -37,7 +37,9 @@
 </picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VYSAKHVINOD/VYSAKHVINOD/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VYSAKHVINOD/VYSAKHVINOD/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VYSAKHVINOD/VYSAKHVINOD/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+  
+
+
+
 
 ###
